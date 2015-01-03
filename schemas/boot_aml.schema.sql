@@ -1,0 +1,5 @@
+CREATE TABLE boot_aml (
+	time INTEGER NOT NULL, 
+	cens INTEGER NOT NULL, 
+	`group` INTEGER NOT NULL
+);

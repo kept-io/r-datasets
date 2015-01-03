@@ -1,0 +1,5 @@
+CREATE TABLE `KMsurv_bnct` (
+	trt INTEGER NOT NULL, 
+	time INTEGER NOT NULL, 
+	death INTEGER NOT NULL
+);

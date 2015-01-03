@@ -1,0 +1,9 @@
+CREATE TABLE `Ecdat_PatentsRD` (
+	year INTEGER NOT NULL, 
+	fi INTEGER NOT NULL, 
+	sector INTEGER NOT NULL, 
+	geo INTEGER NOT NULL, 
+	patent INTEGER NOT NULL, 
+	rdexp FLOAT NOT NULL, 
+	spil FLOAT NOT NULL
+);

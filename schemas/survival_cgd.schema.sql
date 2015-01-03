@@ -1,0 +1,18 @@
+CREATE TABLE survival_cgd (
+	id INTEGER NOT NULL, 
+	center VARCHAR(21) NOT NULL, 
+	random DATE NOT NULL, 
+	treat VARCHAR(7) NOT NULL, 
+	sex VARCHAR(6) NOT NULL, 
+	age INTEGER NOT NULL, 
+	height FLOAT NOT NULL, 
+	weight FLOAT NOT NULL, 
+	inherit VARCHAR(9) NOT NULL, 
+	steroids INTEGER NOT NULL, 
+	propylac INTEGER NOT NULL, 
+	`hos.cat` VARCHAR(16) NOT NULL, 
+	tstart INTEGER NOT NULL, 
+	enum INTEGER NOT NULL, 
+	tstop INTEGER NOT NULL, 
+	status INTEGER NOT NULL
+);

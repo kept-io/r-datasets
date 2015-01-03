@@ -1,0 +1,3 @@
+CREATE TABLE evir_bmw (
+	x FLOAT NOT NULL
+);

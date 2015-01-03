@@ -1,0 +1,4 @@
+CREATE TABLE `robustbase_exAM` (
+	x INTEGER NOT NULL, 
+	y INTEGER NOT NULL
+);

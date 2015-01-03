@@ -1,0 +1,10 @@
+CREATE TABLE survival_veteran (
+	trt INTEGER NOT NULL, 
+	celltype VARCHAR(9) NOT NULL, 
+	time INTEGER NOT NULL, 
+	status INTEGER NOT NULL, 
+	karno INTEGER NOT NULL, 
+	diagtime INTEGER NOT NULL, 
+	age INTEGER NOT NULL, 
+	prior INTEGER NOT NULL
+);

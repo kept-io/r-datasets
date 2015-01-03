@@ -1,0 +1,14 @@
+CREATE TABLE `Ecdat_VietNamI` (
+	pharvis INTEGER NOT NULL, 
+	lnhhexp FLOAT NOT NULL, 
+	age FLOAT NOT NULL, 
+	sex VARCHAR(6) NOT NULL, 
+	married INTEGER NOT NULL, 
+	educ INTEGER NOT NULL, 
+	illness INTEGER NOT NULL, 
+	injury INTEGER NOT NULL, 
+	illdays INTEGER NOT NULL, 
+	actdays INTEGER NOT NULL, 
+	insurance INTEGER NOT NULL, 
+	commune INTEGER NOT NULL
+);

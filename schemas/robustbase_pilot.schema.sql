@@ -1,0 +1,4 @@
+CREATE TABLE robustbase_pilot (
+	`X` INTEGER NOT NULL, 
+	`Y` INTEGER NOT NULL
+);

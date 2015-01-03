@@ -1,0 +1,21 @@
+CREATE TABLE gap_mao (
+	id VARCHAR(8) NOT NULL, 
+	type INTEGER NOT NULL, 
+	gender INTEGER NOT NULL, 
+	age INTEGER, 
+	aao INTEGER, 
+	aad INTEGER, 
+	updrs INTEGER, 
+	maoai2 VARCHAR(7) NOT NULL, 
+	ai2code DATE NOT NULL, 
+	maobi2 VARCHAR(7) NOT NULL, 
+	bi2code DATE NOT NULL, 
+	gtbex3 VARCHAR(7) NOT NULL, 
+	bex3code DATE NOT NULL, 
+	maoavntr VARCHAR(7), 
+	vntrcode DATETIME, 
+	vntrcod2 DATE, 
+	maoa31 VARCHAR(7), 
+	mao31cod VARCHAR(4), 
+	mao31co2 DATE
+);

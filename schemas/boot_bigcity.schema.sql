@@ -1,0 +1,4 @@
+CREATE TABLE boot_bigcity (
+	u INTEGER NOT NULL, 
+	x INTEGER NOT NULL
+);

@@ -1,0 +1,7 @@
+CREATE TABLE datasets_npk (
+	block INTEGER NOT NULL, 
+	`N` INTEGER NOT NULL, 
+	`P` INTEGER NOT NULL, 
+	`K` INTEGER NOT NULL, 
+	yield FLOAT NOT NULL
+);

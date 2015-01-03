@@ -1,0 +1,8 @@
+CREATE TABLE `sem_Tests` (
+	x1 INTEGER, 
+	x2 INTEGER, 
+	x3 INTEGER, 
+	y1 INTEGER, 
+	y2 INTEGER, 
+	y3 INTEGER
+);

@@ -1,0 +1,9 @@
+CREATE TABLE `robustbase_wagnerGrowth` (
+	`Region` INTEGER NOT NULL, 
+	`PA` FLOAT NOT NULL, 
+	`GPA` FLOAT NOT NULL, 
+	`HS` FLOAT NOT NULL, 
+	`GHS` FLOAT NOT NULL, 
+	y FLOAT NOT NULL, 
+	`Period` INTEGER NOT NULL
+);

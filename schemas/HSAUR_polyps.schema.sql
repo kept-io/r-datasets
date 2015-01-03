@@ -1,0 +1,5 @@
+CREATE TABLE `HSAUR_polyps` (
+	number INTEGER NOT NULL, 
+	treat VARCHAR(7) NOT NULL, 
+	age INTEGER NOT NULL
+);

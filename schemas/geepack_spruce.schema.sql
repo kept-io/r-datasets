@@ -1,0 +1,8 @@
+CREATE TABLE geepack_spruce (
+	chamber INTEGER NOT NULL, 
+	ozone VARCHAR(8) NOT NULL, 
+	id INTEGER NOT NULL, 
+	time INTEGER NOT NULL, 
+	wave INTEGER NOT NULL, 
+	logsize FLOAT NOT NULL
+);

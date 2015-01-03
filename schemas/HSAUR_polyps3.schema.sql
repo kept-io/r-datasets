@@ -1,0 +1,7 @@
+CREATE TABLE `HSAUR_polyps3` (
+	sex VARCHAR(6) NOT NULL, 
+	treatment VARCHAR(7) NOT NULL, 
+	baseline INTEGER NOT NULL, 
+	age INTEGER NOT NULL, 
+	number3m INTEGER NOT NULL
+);

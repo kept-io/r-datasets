@@ -1,0 +1,8 @@
+CREATE TABLE `Ecdat_BudgetFood` (
+	wfood FLOAT NOT NULL, 
+	totexp INTEGER NOT NULL, 
+	age INTEGER NOT NULL, 
+	size INTEGER NOT NULL, 
+	town INTEGER NOT NULL, 
+	sex VARCHAR(5)
+);

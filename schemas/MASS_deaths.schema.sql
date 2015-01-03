@@ -1,0 +1,4 @@
+CREATE TABLE `MASS_deaths` (
+	time FLOAT NOT NULL, 
+	deaths INTEGER NOT NULL
+);

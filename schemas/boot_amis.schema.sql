@@ -1,0 +1,6 @@
+CREATE TABLE boot_amis (
+	speed INTEGER NOT NULL, 
+	period INTEGER NOT NULL, 
+	warning INTEGER NOT NULL, 
+	pair INTEGER NOT NULL
+);

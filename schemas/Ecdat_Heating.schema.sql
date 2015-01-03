@@ -1,0 +1,23 @@
+CREATE TABLE `Ecdat_Heating` (
+	idcase INTEGER NOT NULL, 
+	depvar VARCHAR(2) NOT NULL, 
+	`ic.gc` FLOAT NOT NULL, 
+	`ic.gr` FLOAT NOT NULL, 
+	`ic.ec` FLOAT NOT NULL, 
+	`ic.er` FLOAT NOT NULL, 
+	`ic.hp` FLOAT NOT NULL, 
+	`oc.gc` FLOAT NOT NULL, 
+	`oc.gr` FLOAT NOT NULL, 
+	`oc.ec` FLOAT NOT NULL, 
+	`oc.er` FLOAT NOT NULL, 
+	`oc.hp` FLOAT NOT NULL, 
+	income INTEGER NOT NULL, 
+	agehed INTEGER NOT NULL, 
+	rooms INTEGER NOT NULL, 
+	region VARCHAR(6) NOT NULL, 
+	`pb.gc` FLOAT NOT NULL, 
+	`pb.gr` FLOAT NOT NULL, 
+	`pb.ec` FLOAT NOT NULL, 
+	`pb.er` FLOAT NOT NULL, 
+	`pb.hp` FLOAT NOT NULL
+);

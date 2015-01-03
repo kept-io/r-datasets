@@ -1,0 +1,6 @@
+CREATE TABLE `MASS_housing` (
+	id INTEGER NOT NULL, 
+	y INTEGER, 
+	time INTEGER NOT NULL, 
+	sec INTEGER NOT NULL
+);

@@ -1,0 +1,5 @@
+CREATE TABLE boot_hirose (
+	volt INTEGER NOT NULL, 
+	time FLOAT NOT NULL, 
+	cens INTEGER NOT NULL
+);

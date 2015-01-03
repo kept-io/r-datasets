@@ -1,0 +1,4 @@
+CREATE TABLE `MASS_Animals` (
+	body FLOAT NOT NULL, 
+	brain FLOAT NOT NULL
+);

@@ -1,0 +1,7 @@
+CREATE TABLE `MASS_caith` (
+	fair INTEGER NOT NULL, 
+	red INTEGER NOT NULL, 
+	medium INTEGER NOT NULL, 
+	dark INTEGER NOT NULL, 
+	black INTEGER NOT NULL
+);

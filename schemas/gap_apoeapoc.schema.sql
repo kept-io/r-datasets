@@ -1,0 +1,10 @@
+CREATE TABLE gap_apoeapoc (
+	id INTEGER NOT NULL, 
+	y INTEGER NOT NULL, 
+	sex INTEGER NOT NULL, 
+	age INTEGER NOT NULL, 
+	`apoe.a1` INTEGER NOT NULL, 
+	`apoe.a2` INTEGER NOT NULL, 
+	`apoc.a1` INTEGER NOT NULL, 
+	`apoc.a2` INTEGER NOT NULL
+);

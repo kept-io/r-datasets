@@ -1,0 +1,4 @@
+CREATE TABLE `MASS_wtloss` (
+	`Days` INTEGER NOT NULL, 
+	`Weight` FLOAT NOT NULL
+);

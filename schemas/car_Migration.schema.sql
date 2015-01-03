@@ -1,0 +1,10 @@
+CREATE TABLE `car_Migration` (
+	source VARCHAR(4) NOT NULL, 
+	destination VARCHAR(4) NOT NULL, 
+	migrants INTEGER NOT NULL, 
+	distance INTEGER NOT NULL, 
+	pops66 INTEGER NOT NULL, 
+	pops71 INTEGER NOT NULL, 
+	popd66 INTEGER NOT NULL, 
+	popd71 INTEGER NOT NULL
+);

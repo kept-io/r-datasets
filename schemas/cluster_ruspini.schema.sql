@@ -1,0 +1,4 @@
+CREATE TABLE cluster_ruspini (
+	x INTEGER NOT NULL, 
+	y INTEGER NOT NULL
+);

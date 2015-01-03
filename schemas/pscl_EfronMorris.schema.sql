@@ -1,0 +1,9 @@
+CREATE TABLE `pscl_EfronMorris` (
+	name VARCHAR(16) NOT NULL, 
+	team VARCHAR(5) NOT NULL, 
+	league VARCHAR(2) NOT NULL, 
+	r INTEGER NOT NULL, 
+	y FLOAT NOT NULL, 
+	n INTEGER NOT NULL, 
+	p FLOAT NOT NULL
+);

@@ -1,0 +1,10 @@
+CREATE TABLE gap_mhtdata (
+	rsn VARCHAR(10) NOT NULL, 
+	gene VARCHAR(12), 
+	pos INTEGER NOT NULL, 
+	p FLOAT NOT NULL, 
+	chr INTEGER NOT NULL, 
+	_freq_ INTEGER NOT NULL, 
+	start INTEGER NOT NULL, 
+	end INTEGER NOT NULL
+);

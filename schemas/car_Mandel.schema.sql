@@ -1,0 +1,5 @@
+CREATE TABLE `car_Mandel` (
+	x1 FLOAT NOT NULL, 
+	x2 FLOAT NOT NULL, 
+	y FLOAT NOT NULL
+);

@@ -1,0 +1,19 @@
+CREATE TABLE `Ecdat_University` (
+	undstudents INTEGER NOT NULL, 
+	poststudents INTEGER NOT NULL, 
+	nassets FLOAT NOT NULL, 
+	acnumbers FLOAT NOT NULL, 
+	acrelnum FLOAT NOT NULL, 
+	clernum FLOAT NOT NULL, 
+	compop FLOAT NOT NULL, 
+	techn FLOAT NOT NULL, 
+	stfees INTEGER NOT NULL, 
+	acpay INTEGER NOT NULL, 
+	acrelpay INTEGER NOT NULL, 
+	secrpay INTEGER NOT NULL, 
+	admpay INTEGER NOT NULL, 
+	agresrk FLOAT NOT NULL, 
+	furneq INTEGER NOT NULL, 
+	landbuild FLOAT NOT NULL, 
+	resgr INTEGER NOT NULL
+);

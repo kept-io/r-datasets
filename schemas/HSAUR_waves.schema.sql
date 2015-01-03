@@ -1,0 +1,4 @@
+CREATE TABLE `HSAUR_waves` (
+	method1 FLOAT NOT NULL, 
+	method2 FLOAT NOT NULL
+);

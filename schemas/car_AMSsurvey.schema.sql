@@ -1,0 +1,7 @@
+CREATE TABLE `car_AMSsurvey` (
+	type VARCHAR(5) NOT NULL, 
+	sex VARCHAR(6) NOT NULL, 
+	citizen VARCHAR(6) NOT NULL, 
+	count INTEGER NOT NULL, 
+	count11 INTEGER NOT NULL
+);

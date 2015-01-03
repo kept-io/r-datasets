@@ -1,0 +1,10 @@
+CREATE TABLE `Ecdat_Garch` (
+	date INTEGER NOT NULL, 
+	day VARCHAR(9) NOT NULL, 
+	dm FLOAT NOT NULL, 
+	ddm FLOAT, 
+	bp FLOAT NOT NULL, 
+	cd FLOAT NOT NULL, 
+	dy FLOAT NOT NULL, 
+	sf FLOAT NOT NULL
+);

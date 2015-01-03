@@ -1,0 +1,4 @@
+CREATE TABLE boot_city (
+	u INTEGER NOT NULL, 
+	x INTEGER NOT NULL
+);

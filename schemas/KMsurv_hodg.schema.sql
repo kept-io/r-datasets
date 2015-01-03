@@ -1,0 +1,8 @@
+CREATE TABLE `KMsurv_hodg` (
+	gtype INTEGER NOT NULL, 
+	dtype INTEGER NOT NULL, 
+	time INTEGER NOT NULL, 
+	delta INTEGER NOT NULL, 
+	score INTEGER NOT NULL, 
+	wtime INTEGER NOT NULL
+);

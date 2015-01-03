@@ -1,0 +1,3 @@
+CREATE TABLE `MASS_newcomb` (
+	x INTEGER NOT NULL
+);

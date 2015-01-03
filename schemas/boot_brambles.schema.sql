@@ -1,0 +1,5 @@
+CREATE TABLE boot_brambles (
+	x FLOAT NOT NULL, 
+	y FLOAT NOT NULL, 
+	age INTEGER NOT NULL
+);
