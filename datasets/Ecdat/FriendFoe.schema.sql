@@ -1,0 +1,17 @@
+CREATE TABLE `FriendFoe` (
+	sex VARCHAR(6) NOT NULL, 
+	white BOOL NOT NULL, 
+	age INTEGER NOT NULL, 
+	play VARCHAR(6) NOT NULL, 
+	round INTEGER NOT NULL, 
+	season INTEGER NOT NULL, 
+	cash FLOAT NOT NULL, 
+	sex1 VARCHAR(6) NOT NULL, 
+	white1 BOOL NOT NULL, 
+	age1 INTEGER NOT NULL, 
+	play1 VARCHAR(6) NOT NULL, 
+	win FLOAT NOT NULL, 
+	win1 FLOAT NOT NULL, 
+	CHECK (white IN (0, 1)), 
+	CHECK (white1 IN (0, 1))
+);

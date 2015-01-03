@@ -1,0 +1,4 @@
+CREATE TABLE lh (
+	time INTEGER NOT NULL, 
+	lh FLOAT NOT NULL
+);

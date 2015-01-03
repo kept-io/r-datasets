@@ -1,6 +1,0 @@
-CREATE TABLE `KMsurv_rats` (
-	litter INTEGER NOT NULL, 
-	rx INTEGER NOT NULL, 
-	time INTEGER NOT NULL, 
-	status INTEGER NOT NULL
-);

@@ -1,0 +1,5 @@
+CREATE TABLE `Burt` (
+	`IQbio` INTEGER NOT NULL, 
+	`IQfoster` INTEGER NOT NULL, 
+	class VARCHAR(6) NOT NULL
+);

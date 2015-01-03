@@ -1,5 +1,0 @@
-CREATE TABLE boot_downs (
-	age FLOAT NOT NULL, 
-	m INTEGER NOT NULL, 
-	r INTEGER NOT NULL
-);

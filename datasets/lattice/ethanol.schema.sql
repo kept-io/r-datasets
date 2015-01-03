@@ -1,0 +1,5 @@
+CREATE TABLE ethanol (
+	`NOx` FLOAT NOT NULL, 
+	`C` FLOAT NOT NULL, 
+	`E` FLOAT NOT NULL
+);

@@ -1,0 +1,11 @@
+CREATE TABLE `Cigarette` (
+	state VARCHAR(2) NOT NULL, 
+	year INTEGER NOT NULL, 
+	cpi FLOAT NOT NULL, 
+	pop INTEGER NOT NULL, 
+	packpc FLOAT NOT NULL, 
+	income INTEGER NOT NULL, 
+	tax FLOAT NOT NULL, 
+	avgprs FLOAT NOT NULL, 
+	taxs FLOAT NOT NULL
+);

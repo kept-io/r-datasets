@@ -1,0 +1,3 @@
+CREATE TABLE shrimp (
+	x FLOAT NOT NULL
+);

@@ -1,3 +1,0 @@
-CREATE TABLE `MASS_shrimp` (
-	x FLOAT NOT NULL
-);

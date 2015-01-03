@@ -1,8 +1,0 @@
-CREATE TABLE `HistData_OldMaps` (
-	point INTEGER NOT NULL, 
-	col INTEGER NOT NULL, 
-	name VARCHAR(10) NOT NULL, 
-	year INTEGER, 
-	lat FLOAT NOT NULL, 
-	`long` FLOAT NOT NULL
-);

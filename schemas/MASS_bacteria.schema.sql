@@ -1,9 +1,0 @@
-CREATE TABLE `MASS_bacteria` (
-	y BOOL NOT NULL, 
-	ap VARCHAR(1) NOT NULL, 
-	hilo VARCHAR(2) NOT NULL, 
-	week INTEGER NOT NULL, 
-	`ID` VARCHAR(3) NOT NULL, 
-	trt VARCHAR(7) NOT NULL, 
-	CHECK (y IN (0, 1))
-);

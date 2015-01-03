@@ -1,5 +1,0 @@
-CREATE TABLE boot_fir (
-	count INTEGER NOT NULL, 
-	row INTEGER NOT NULL, 
-	col INTEGER NOT NULL
-);

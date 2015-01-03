@@ -1,6 +1,0 @@
-CREATE TABLE robustbase_salinity (
-	`X1` FLOAT NOT NULL, 
-	`X2` INTEGER NOT NULL, 
-	`X3` FLOAT NOT NULL, 
-	`Y` FLOAT NOT NULL
-);

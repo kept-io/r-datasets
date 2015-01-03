@@ -1,8 +1,0 @@
-CREATE TABLE `pscl_bioChemists` (
-	art INTEGER NOT NULL, 
-	fem VARCHAR(5) NOT NULL, 
-	mar VARCHAR(7) NOT NULL, 
-	kid5 INTEGER NOT NULL, 
-	phd FLOAT NOT NULL, 
-	ment INTEGER NOT NULL
-);

@@ -1,0 +1,6 @@
+CREATE TABLE coop (
+	`Lab` VARCHAR(2) NOT NULL, 
+	`Spc` VARCHAR(2) NOT NULL, 
+	`Bat` VARCHAR(2) NOT NULL, 
+	`Conc` FLOAT NOT NULL
+);

@@ -1,0 +1,4 @@
+CREATE TABLE `UKgas` (
+	time FLOAT NOT NULL, 
+	`UKgas` FLOAT NOT NULL
+);

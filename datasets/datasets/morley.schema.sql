@@ -1,0 +1,5 @@
+CREATE TABLE morley (
+	`Expt` INTEGER NOT NULL, 
+	`Run` INTEGER NOT NULL, 
+	`Speed` INTEGER NOT NULL
+);

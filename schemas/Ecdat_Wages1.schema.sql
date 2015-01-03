@@ -1,6 +1,0 @@
-CREATE TABLE `Ecdat_Wages1` (
-	exper INTEGER NOT NULL, 
-	sex VARCHAR(6) NOT NULL, 
-	school INTEGER NOT NULL, 
-	wage FLOAT NOT NULL
-);

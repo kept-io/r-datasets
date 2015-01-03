@@ -1,6 +1,0 @@
-CREATE TABLE `MASS_farms` (
-	`Mois` DATE NOT NULL, 
-	`Manag` VARCHAR(2) NOT NULL, 
-	`Use` VARCHAR(2) NOT NULL, 
-	`Manure` VARCHAR(2) NOT NULL
-);

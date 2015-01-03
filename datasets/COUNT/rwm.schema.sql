@@ -1,0 +1,6 @@
+CREATE TABLE rwm (
+	docvis INTEGER NOT NULL, 
+	age INTEGER NOT NULL, 
+	educ FLOAT NOT NULL, 
+	hhninc FLOAT NOT NULL
+);

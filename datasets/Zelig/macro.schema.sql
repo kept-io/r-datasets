@@ -1,0 +1,8 @@
+CREATE TABLE macro (
+	country VARCHAR(14) NOT NULL, 
+	year INTEGER NOT NULL, 
+	gdp FLOAT NOT NULL, 
+	unem FLOAT NOT NULL, 
+	capmob INTEGER NOT NULL, 
+	trade FLOAT NOT NULL
+);

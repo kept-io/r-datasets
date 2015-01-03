@@ -1,7 +1,0 @@
-CREATE TABLE `KMsurv_drug6mp` (
-	pair INTEGER NOT NULL, 
-	remstat INTEGER NOT NULL, 
-	t1 INTEGER NOT NULL, 
-	t2 INTEGER NOT NULL, 
-	relapse INTEGER NOT NULL
-);

@@ -1,4 +1,0 @@
-CREATE TABLE boot_grav (
-	g INTEGER NOT NULL, 
-	series INTEGER NOT NULL
-);

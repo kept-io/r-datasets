@@ -1,0 +1,4 @@
+CREATE TABLE agriculture (
+	x FLOAT NOT NULL, 
+	y FLOAT NOT NULL
+);

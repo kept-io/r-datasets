@@ -1,0 +1,8 @@
+CREATE TABLE `Pottery` (
+	`Site` VARCHAR(11) NOT NULL, 
+	`Al` FLOAT NOT NULL, 
+	`Fe` FLOAT NOT NULL, 
+	`Mg` FLOAT NOT NULL, 
+	`Ca` FLOAT NOT NULL, 
+	`Na` FLOAT NOT NULL
+);

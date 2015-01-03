@@ -1,8 +1,0 @@
-CREATE TABLE `COUNT_azcabgptca` (
-	died INTEGER NOT NULL, 
-	`procedure` INTEGER NOT NULL, 
-	age INTEGER NOT NULL, 
-	gender INTEGER NOT NULL, 
-	los INTEGER NOT NULL, 
-	type INTEGER NOT NULL
-);

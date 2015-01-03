@@ -1,6 +1,0 @@
-CREATE TABLE `KMsurv_azt` (
-	patient INTEGER NOT NULL, 
-	ageentry INTEGER NOT NULL, 
-	age INTEGER NOT NULL, 
-	death INTEGER NOT NULL
-);

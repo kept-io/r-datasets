@@ -1,0 +1,11 @@
+CREATE TABLE `Cigar` (
+	state INTEGER NOT NULL, 
+	year INTEGER NOT NULL, 
+	price FLOAT NOT NULL, 
+	pop FLOAT NOT NULL, 
+	pop16 FLOAT NOT NULL, 
+	cpi FLOAT NOT NULL, 
+	ndi FLOAT NOT NULL, 
+	sales FLOAT NOT NULL, 
+	pimin FLOAT NOT NULL
+);

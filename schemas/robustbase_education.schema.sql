@@ -1,8 +1,0 @@
-CREATE TABLE robustbase_education (
-	`State` VARCHAR(2) NOT NULL, 
-	`Region` INTEGER NOT NULL, 
-	`X1` INTEGER NOT NULL, 
-	`X2` INTEGER NOT NULL, 
-	`X3` INTEGER NOT NULL, 
-	`Y` INTEGER NOT NULL
-);

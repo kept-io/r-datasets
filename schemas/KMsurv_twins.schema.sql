@@ -1,6 +1,0 @@
-CREATE TABLE `KMsurv_twins` (
-	id INTEGER NOT NULL, 
-	age INTEGER NOT NULL, 
-	death INTEGER NOT NULL, 
-	gender INTEGER NOT NULL
-);

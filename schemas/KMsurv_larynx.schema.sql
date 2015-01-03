@@ -1,7 +1,0 @@
-CREATE TABLE `KMsurv_larynx` (
-	stage INTEGER NOT NULL, 
-	time FLOAT NOT NULL, 
-	age INTEGER NOT NULL, 
-	diagyr INTEGER NOT NULL, 
-	delta INTEGER NOT NULL
-);

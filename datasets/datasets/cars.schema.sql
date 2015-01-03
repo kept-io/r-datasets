@@ -1,0 +1,4 @@
+CREATE TABLE cars (
+	speed INTEGER NOT NULL, 
+	dist INTEGER NOT NULL
+);

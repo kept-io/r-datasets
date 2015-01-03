@@ -1,6 +1,0 @@
-CREATE TABLE `MASS_beav2` (
-	day INTEGER NOT NULL, 
-	time INTEGER NOT NULL, 
-	temp FLOAT NOT NULL, 
-	activ INTEGER NOT NULL
-);

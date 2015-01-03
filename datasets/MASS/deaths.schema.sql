@@ -1,0 +1,4 @@
+CREATE TABLE deaths (
+	time FLOAT NOT NULL, 
+	deaths INTEGER NOT NULL
+);

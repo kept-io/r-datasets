@@ -1,0 +1,8 @@
+CREATE TABLE `RockTheVote` (
+	strata INTEGER NOT NULL, 
+	treated INTEGER NOT NULL, 
+	r INTEGER NOT NULL, 
+	n INTEGER NOT NULL, 
+	p FLOAT NOT NULL, 
+	`treatedIndex` INTEGER NOT NULL
+);

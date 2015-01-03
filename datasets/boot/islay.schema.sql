@@ -1,0 +1,3 @@
+CREATE TABLE islay (
+	theta INTEGER NOT NULL
+);

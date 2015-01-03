@@ -1,0 +1,3 @@
+CREATE TABLE chem (
+	x FLOAT NOT NULL
+);

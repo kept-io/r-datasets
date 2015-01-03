@@ -1,0 +1,7 @@
+CREATE TABLE titanicgrp (
+	survive INTEGER NOT NULL, 
+	cases INTEGER NOT NULL, 
+	age INTEGER NOT NULL, 
+	sex INTEGER NOT NULL, 
+	class INTEGER NOT NULL
+);

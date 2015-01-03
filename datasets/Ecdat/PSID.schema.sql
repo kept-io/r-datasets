@@ -1,0 +1,10 @@
+CREATE TABLE `PSID` (
+	intnum INTEGER NOT NULL, 
+	persnum INTEGER NOT NULL, 
+	age INTEGER NOT NULL, 
+	educatn INTEGER, 
+	earnings INTEGER NOT NULL, 
+	hours INTEGER NOT NULL, 
+	kids INTEGER NOT NULL, 
+	married VARCHAR(13) NOT NULL
+);

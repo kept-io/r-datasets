@@ -1,0 +1,10 @@
+CREATE TABLE absentee (
+	year INTEGER NOT NULL, 
+	district INTEGER NOT NULL, 
+	absdem INTEGER NOT NULL, 
+	absrep INTEGER NOT NULL, 
+	machdem INTEGER NOT NULL, 
+	machrep INTEGER NOT NULL, 
+	dabs INTEGER NOT NULL, 
+	dmach INTEGER NOT NULL
+);

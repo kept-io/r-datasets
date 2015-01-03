@@ -1,0 +1,5 @@
+CREATE TABLE remission (
+	`LI` FLOAT NOT NULL, 
+	m INTEGER NOT NULL, 
+	r INTEGER NOT NULL
+);

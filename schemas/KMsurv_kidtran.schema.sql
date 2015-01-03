@@ -1,8 +1,0 @@
-CREATE TABLE `KMsurv_kidtran` (
-	obs INTEGER NOT NULL, 
-	time INTEGER NOT NULL, 
-	delta INTEGER NOT NULL, 
-	gender INTEGER NOT NULL, 
-	race INTEGER NOT NULL, 
-	age INTEGER NOT NULL
-);

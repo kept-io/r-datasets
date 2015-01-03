@@ -1,0 +1,20 @@
+CREATE TABLE `HC` (
+	depvar VARCHAR(3) NOT NULL, 
+	`ich.gcc` INTEGER NOT NULL, 
+	`ich.ecc` INTEGER NOT NULL, 
+	`ich.erc` INTEGER NOT NULL, 
+	`ich.hpc` INTEGER NOT NULL, 
+	`ich.gc` INTEGER NOT NULL, 
+	`ich.ec` INTEGER NOT NULL, 
+	`ich.er` INTEGER NOT NULL, 
+	icca INTEGER NOT NULL, 
+	`och.gcc` INTEGER NOT NULL, 
+	`och.ecc` INTEGER NOT NULL, 
+	`och.erc` INTEGER NOT NULL, 
+	`och.hpc` INTEGER NOT NULL, 
+	`och.gc` INTEGER NOT NULL, 
+	`och.ec` INTEGER NOT NULL, 
+	`och.er` INTEGER NOT NULL, 
+	occa INTEGER NOT NULL, 
+	income INTEGER NOT NULL
+);

@@ -1,0 +1,5 @@
+CREATE TABLE hirose (
+	volt INTEGER NOT NULL, 
+	time FLOAT NOT NULL, 
+	cens INTEGER NOT NULL
+);

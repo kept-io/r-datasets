@@ -1,6 +1,0 @@
-CREATE TABLE gap_lukas (
-	id INTEGER NOT NULL, 
-	father INTEGER NOT NULL, 
-	mother INTEGER NOT NULL, 
-	sex VARCHAR(1) NOT NULL
-);

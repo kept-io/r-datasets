@@ -1,8 +1,0 @@
-CREATE TABLE `MASS_road` (
-	deaths INTEGER NOT NULL, 
-	drivers INTEGER NOT NULL, 
-	popden FLOAT NOT NULL, 
-	rural FLOAT NOT NULL, 
-	temp INTEGER NOT NULL, 
-	fuel FLOAT NOT NULL
-);

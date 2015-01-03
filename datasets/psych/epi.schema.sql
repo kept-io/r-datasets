@@ -1,0 +1,3 @@
+CREATE TABLE epi (
+	`Content` VARCHAR(113) NOT NULL
+);

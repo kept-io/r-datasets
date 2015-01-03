@@ -1,0 +1,4 @@
+CREATE TABLE `USPop` (
+	year INTEGER NOT NULL, 
+	population FLOAT NOT NULL
+);

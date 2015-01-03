@@ -1,0 +1,5 @@
+CREATE TABLE cats (
+	`Sex` VARCHAR(1) NOT NULL, 
+	`Bwt` FLOAT NOT NULL, 
+	`Hwt` FLOAT NOT NULL
+);

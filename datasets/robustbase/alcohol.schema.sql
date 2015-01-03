@@ -1,0 +1,9 @@
+CREATE TABLE alcohol (
+	`SAG` FLOAT NOT NULL, 
+	`V` FLOAT NOT NULL, 
+	`logPC` FLOAT NOT NULL, 
+	`P` FLOAT NOT NULL, 
+	`RM` FLOAT NOT NULL, 
+	`Mass` FLOAT NOT NULL, 
+	`logSolubility` FLOAT NOT NULL
+);

@@ -1,0 +1,3 @@
+CREATE TABLE tuna (
+	y FLOAT NOT NULL
+);

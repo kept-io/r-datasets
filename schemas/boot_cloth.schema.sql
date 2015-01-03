@@ -1,4 +1,0 @@
-CREATE TABLE boot_cloth (
-	x FLOAT NOT NULL, 
-	y INTEGER NOT NULL
-);

@@ -1,9 +1,0 @@
-CREATE TABLE `HSAUR_toothpaste` (
-	`Study` INTEGER NOT NULL, 
-	`nA` INTEGER NOT NULL, 
-	`meanA` FLOAT NOT NULL, 
-	`sdA` FLOAT NOT NULL, 
-	`nB` INTEGER NOT NULL, 
-	`meanB` FLOAT NOT NULL, 
-	`sdB` FLOAT NOT NULL
-);

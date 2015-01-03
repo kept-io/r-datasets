@@ -1,0 +1,4 @@
+CREATE TABLE `USAccDeaths` (
+	time FLOAT NOT NULL, 
+	`USAccDeaths` INTEGER NOT NULL
+);

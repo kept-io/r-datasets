@@ -1,0 +1,5 @@
+CREATE TABLE leuk (
+	wbc INTEGER NOT NULL, 
+	ag VARCHAR(7) NOT NULL, 
+	time INTEGER NOT NULL
+);

@@ -1,0 +1,6 @@
+CREATE TABLE `Sitka89` (
+	size FLOAT NOT NULL, 
+	`Time` INTEGER NOT NULL, 
+	tree INTEGER NOT NULL, 
+	treat VARCHAR(7) NOT NULL
+);

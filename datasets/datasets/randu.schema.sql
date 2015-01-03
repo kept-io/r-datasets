@@ -1,0 +1,5 @@
+CREATE TABLE randu (
+	x FLOAT NOT NULL, 
+	y FLOAT NOT NULL, 
+	z FLOAT NOT NULL
+);

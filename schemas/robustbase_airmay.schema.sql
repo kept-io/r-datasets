@@ -1,6 +1,0 @@
-CREATE TABLE robustbase_airmay (
-	`X1` INTEGER, 
-	`X2` FLOAT NOT NULL, 
-	`X3` INTEGER NOT NULL, 
-	`Y` INTEGER
-);

@@ -1,0 +1,3 @@
+CREATE TABLE newcomb (
+	x INTEGER NOT NULL
+);

@@ -1,0 +1,3 @@
+CREATE TABLE abbey (
+	x FLOAT NOT NULL
+);

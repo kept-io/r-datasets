@@ -1,0 +1,4 @@
+CREATE TABLE lynx (
+	time INTEGER NOT NULL, 
+	lynx INTEGER NOT NULL
+);

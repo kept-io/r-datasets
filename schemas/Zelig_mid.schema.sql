@@ -1,9 +1,0 @@
-CREATE TABLE `Zelig_mid` (
-	conflict INTEGER NOT NULL, 
-	major INTEGER NOT NULL, 
-	contig INTEGER NOT NULL, 
-	power FLOAT NOT NULL, 
-	maxdem INTEGER NOT NULL, 
-	mindem INTEGER NOT NULL, 
-	years INTEGER NOT NULL
-);

@@ -1,0 +1,20 @@
+CREATE TABLE `Housing` (
+	price FLOAT NOT NULL, 
+	lotsize INTEGER NOT NULL, 
+	bedrooms INTEGER NOT NULL, 
+	bathrms INTEGER NOT NULL, 
+	stories INTEGER NOT NULL, 
+	driveway BOOL NOT NULL, 
+	recroom BOOL NOT NULL, 
+	fullbase BOOL NOT NULL, 
+	gashw BOOL NOT NULL, 
+	airco BOOL NOT NULL, 
+	garagepl INTEGER NOT NULL, 
+	prefarea BOOL NOT NULL, 
+	CHECK (driveway IN (0, 1)), 
+	CHECK (recroom IN (0, 1)), 
+	CHECK (fullbase IN (0, 1)), 
+	CHECK (gashw IN (0, 1)), 
+	CHECK (airco IN (0, 1)), 
+	CHECK (prefarea IN (0, 1))
+);

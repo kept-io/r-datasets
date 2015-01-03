@@ -1,0 +1,8 @@
+CREATE TABLE snails (
+	`Species` VARCHAR(1) NOT NULL, 
+	`Exposure` INTEGER NOT NULL, 
+	`Rel.Hum` FLOAT NOT NULL, 
+	`Temp` INTEGER NOT NULL, 
+	`Deaths` INTEGER NOT NULL, 
+	`N` INTEGER NOT NULL
+);

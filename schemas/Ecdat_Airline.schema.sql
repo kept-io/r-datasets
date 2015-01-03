@@ -1,8 +1,0 @@
-CREATE TABLE `Ecdat_Airline` (
-	airline INTEGER NOT NULL, 
-	year INTEGER NOT NULL, 
-	cost INTEGER NOT NULL, 
-	output FLOAT NOT NULL, 
-	pf INTEGER NOT NULL, 
-	lf FLOAT NOT NULL
-);

@@ -1,0 +1,12 @@
+CREATE TABLE diamonds (
+	carat FLOAT NOT NULL, 
+	cut VARCHAR(9) NOT NULL, 
+	color VARCHAR(1) NOT NULL, 
+	clarity VARCHAR(4) NOT NULL, 
+	depth FLOAT NOT NULL, 
+	`table` FLOAT NOT NULL, 
+	price INTEGER NOT NULL, 
+	x FLOAT NOT NULL, 
+	y FLOAT NOT NULL, 
+	z FLOAT NOT NULL
+);

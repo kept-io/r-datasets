@@ -1,0 +1,4 @@
+CREATE TABLE condroz (
+	`Ca` FLOAT NOT NULL, 
+	`pH` FLOAT NOT NULL
+);

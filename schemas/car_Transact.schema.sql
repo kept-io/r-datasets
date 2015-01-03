@@ -1,5 +1,0 @@
-CREATE TABLE `car_Transact` (
-	t1 INTEGER NOT NULL, 
-	t2 INTEGER NOT NULL, 
-	time INTEGER NOT NULL
-);

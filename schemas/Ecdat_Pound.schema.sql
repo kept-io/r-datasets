@@ -1,6 +1,0 @@
-CREATE TABLE `Ecdat_Pound` (
-	date INTEGER NOT NULL, 
-	s FLOAT NOT NULL, 
-	f FLOAT NOT NULL, 
-	s30 FLOAT NOT NULL
-);

@@ -1,0 +1,4 @@
+CREATE TABLE women (
+	height INTEGER NOT NULL, 
+	weight INTEGER NOT NULL
+);

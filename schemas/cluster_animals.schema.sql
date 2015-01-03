@@ -1,8 +1,0 @@
-CREATE TABLE cluster_animals (
-	war INTEGER NOT NULL, 
-	fly INTEGER NOT NULL, 
-	ver INTEGER NOT NULL, 
-	end INTEGER, 
-	gro INTEGER, 
-	hai INTEGER NOT NULL
-);

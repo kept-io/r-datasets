@@ -1,9 +1,0 @@
-CREATE TABLE `MASS_Melanoma` (
-	time INTEGER NOT NULL, 
-	status INTEGER NOT NULL, 
-	sex INTEGER NOT NULL, 
-	age INTEGER NOT NULL, 
-	year INTEGER NOT NULL, 
-	thickness FLOAT NOT NULL, 
-	ulcer INTEGER NOT NULL
-);

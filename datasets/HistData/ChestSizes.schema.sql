@@ -1,0 +1,4 @@
+CREATE TABLE `ChestSizes` (
+	chest INTEGER NOT NULL, 
+	count INTEGER NOT NULL
+);

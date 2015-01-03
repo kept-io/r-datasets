@@ -1,0 +1,9 @@
+CREATE TABLE grunfeld (
+	`Year` INTEGER NOT NULL, 
+	`Ige` FLOAT NOT NULL, 
+	`Fge` FLOAT NOT NULL, 
+	`Cge` FLOAT NOT NULL, 
+	`Iw` FLOAT NOT NULL, 
+	`Fw` FLOAT NOT NULL, 
+	`Cw` FLOAT NOT NULL
+);

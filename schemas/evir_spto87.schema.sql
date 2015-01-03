@@ -1,3 +1,0 @@
-CREATE TABLE evir_spto87 (
-	x FLOAT NOT NULL
-);

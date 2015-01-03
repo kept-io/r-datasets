@@ -1,0 +1,4 @@
+CREATE TABLE gravity (
+	g INTEGER NOT NULL, 
+	series INTEGER NOT NULL
+);

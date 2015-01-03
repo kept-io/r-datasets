@@ -1,0 +1,5 @@
+CREATE TABLE vaso (
+	`Volume` FLOAT NOT NULL, 
+	`Rate` FLOAT NOT NULL, 
+	`Y` INTEGER NOT NULL
+);

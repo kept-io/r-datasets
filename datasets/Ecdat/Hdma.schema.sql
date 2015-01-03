@@ -1,0 +1,21 @@
+CREATE TABLE `Hdma` (
+	dir FLOAT NOT NULL, 
+	hir FLOAT NOT NULL, 
+	lvr FLOAT NOT NULL, 
+	ccs FLOAT NOT NULL, 
+	mcs FLOAT NOT NULL, 
+	pbcr BOOL, 
+	dmi BOOL NOT NULL, 
+	self BOOL, 
+	single BOOL NOT NULL, 
+	uria FLOAT NOT NULL, 
+	comdominiom INTEGER NOT NULL, 
+	black BOOL NOT NULL, 
+	deny BOOL NOT NULL, 
+	CHECK (pbcr IN (0, 1)), 
+	CHECK (dmi IN (0, 1)), 
+	CHECK (self IN (0, 1)), 
+	CHECK (single IN (0, 1)), 
+	CHECK (black IN (0, 1)), 
+	CHECK (deny IN (0, 1))
+);

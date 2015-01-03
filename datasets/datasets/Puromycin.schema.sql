@@ -1,0 +1,5 @@
+CREATE TABLE `Puromycin` (
+	conc FLOAT NOT NULL, 
+	rate INTEGER NOT NULL, 
+	state VARCHAR(9) NOT NULL
+);

@@ -1,0 +1,11 @@
+CREATE TABLE `Langren1644` (
+	`Name` VARCHAR(16) NOT NULL, 
+	`Longitude` FLOAT NOT NULL, 
+	`Year` INTEGER NOT NULL, 
+	`Longname` VARCHAR(23) NOT NULL, 
+	`City` VARCHAR(10) NOT NULL, 
+	`Country` VARCHAR(8) NOT NULL, 
+	`Latitude` FLOAT NOT NULL, 
+	`Source` VARCHAR(6) NOT NULL, 
+	`Gap` INTEGER NOT NULL
+);

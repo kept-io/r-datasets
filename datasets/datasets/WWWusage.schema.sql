@@ -1,0 +1,4 @@
+CREATE TABLE `WWWusage` (
+	time INTEGER NOT NULL, 
+	`WWWusage` INTEGER NOT NULL
+);

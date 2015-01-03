@@ -1,0 +1,6 @@
+CREATE TABLE cabbages (
+	`Cult` VARCHAR(3) NOT NULL, 
+	`Date` VARCHAR(3) NOT NULL, 
+	`HeadWt` FLOAT NOT NULL, 
+	`VitC` INTEGER NOT NULL
+);

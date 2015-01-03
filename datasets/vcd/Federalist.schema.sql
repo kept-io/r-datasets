@@ -1,0 +1,4 @@
+CREATE TABLE `Federalist` (
+	`nMay` INTEGER NOT NULL, 
+	`Freq` INTEGER NOT NULL
+);

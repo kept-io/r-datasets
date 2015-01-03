@@ -1,0 +1,6 @@
+CREATE TABLE beav1 (
+	day INTEGER NOT NULL, 
+	time INTEGER NOT NULL, 
+	temp FLOAT NOT NULL, 
+	activ INTEGER NOT NULL
+);

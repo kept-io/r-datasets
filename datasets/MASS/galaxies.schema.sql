@@ -1,0 +1,3 @@
+CREATE TABLE galaxies (
+	x INTEGER NOT NULL
+);

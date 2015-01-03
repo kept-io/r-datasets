@@ -1,0 +1,4 @@
+CREATE TABLE `Saxony` (
+	`nMales` INTEGER NOT NULL, 
+	`Freq` INTEGER NOT NULL
+);

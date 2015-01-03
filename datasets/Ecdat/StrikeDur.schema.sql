@@ -1,0 +1,4 @@
+CREATE TABLE `StrikeDur` (
+	dur INTEGER NOT NULL, 
+	gdp FLOAT NOT NULL
+);

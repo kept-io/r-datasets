@@ -1,4 +1,0 @@
-CREATE TABLE cluster_xclara (
-	`V1` FLOAT NOT NULL, 
-	`V2` FLOAT NOT NULL
-);

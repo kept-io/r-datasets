@@ -1,3 +1,0 @@
-CREATE TABLE `MASS_abbey` (
-	x FLOAT NOT NULL
-);

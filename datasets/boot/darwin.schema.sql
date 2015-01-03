@@ -1,0 +1,3 @@
+CREATE TABLE darwin (
+	y INTEGER NOT NULL
+);

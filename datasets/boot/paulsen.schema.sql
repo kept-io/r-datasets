@@ -1,0 +1,3 @@
+CREATE TABLE paulsen (
+	y FLOAT NOT NULL
+);

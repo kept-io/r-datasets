@@ -1,5 +1,0 @@
-CREATE TABLE `MASS_Rubber` (
-	loss INTEGER NOT NULL, 
-	hard INTEGER NOT NULL, 
-	tens INTEGER NOT NULL
-);

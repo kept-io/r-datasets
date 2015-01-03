@@ -1,6 +1,0 @@
-CREATE TABLE geepack_koch (
-	trt INTEGER NOT NULL, 
-	day INTEGER NOT NULL, 
-	y INTEGER NOT NULL, 
-	id INTEGER NOT NULL
-);

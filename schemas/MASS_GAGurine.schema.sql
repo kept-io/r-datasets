@@ -1,4 +1,0 @@
-CREATE TABLE `MASS_GAGurine` (
-	`Age` FLOAT NOT NULL, 
-	`GAG` FLOAT NOT NULL
-);

@@ -1,0 +1,3 @@
+CREATE TABLE `DDT` (
+	x FLOAT NOT NULL
+);

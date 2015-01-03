@@ -1,0 +1,4 @@
+CREATE TABLE telef (
+	`Year` INTEGER NOT NULL, 
+	`Calls` FLOAT NOT NULL
+);

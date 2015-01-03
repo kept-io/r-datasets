@@ -1,4 +1,0 @@
-CREATE TABLE boot_cav (
-	x INTEGER NOT NULL, 
-	y INTEGER NOT NULL
-);

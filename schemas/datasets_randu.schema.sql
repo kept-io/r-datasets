@@ -1,5 +1,0 @@
-CREATE TABLE datasets_randu (
-	x FLOAT NOT NULL, 
-	y FLOAT NOT NULL, 
-	z FLOAT NOT NULL
-);

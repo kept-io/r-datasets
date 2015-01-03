@@ -1,0 +1,3 @@
+CREATE TABLE coal (
+	date FLOAT NOT NULL
+);

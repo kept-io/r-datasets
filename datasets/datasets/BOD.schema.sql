@@ -1,0 +1,4 @@
+CREATE TABLE `BOD` (
+	`Time` INTEGER NOT NULL, 
+	demand FLOAT NOT NULL
+);

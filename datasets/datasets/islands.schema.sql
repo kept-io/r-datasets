@@ -1,0 +1,3 @@
+CREATE TABLE islands (
+	x INTEGER NOT NULL
+);

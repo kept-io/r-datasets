@@ -1,0 +1,4 @@
+CREATE TABLE `SiegelsEx` (
+	x INTEGER NOT NULL, 
+	y INTEGER NOT NULL
+);

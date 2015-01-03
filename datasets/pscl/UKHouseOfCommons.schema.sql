@@ -1,0 +1,14 @@
+CREATE TABLE `UKHouseOfCommons` (
+	constituency VARCHAR(38), 
+	county VARCHAR(27), 
+	y1 FLOAT NOT NULL, 
+	y2 FLOAT NOT NULL, 
+	y1lag FLOAT NOT NULL, 
+	y2lag FLOAT NOT NULL, 
+	coninc INTEGER NOT NULL, 
+	labinc INTEGER NOT NULL, 
+	libinc INTEGER NOT NULL, 
+	v1 FLOAT NOT NULL, 
+	v2 FLOAT NOT NULL, 
+	v3 FLOAT NOT NULL
+);

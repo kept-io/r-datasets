@@ -1,5 +1,0 @@
-CREATE TABLE `COUNT_badhealth` (
-	numvisit INTEGER NOT NULL, 
-	badh INTEGER NOT NULL, 
-	age INTEGER NOT NULL
-);

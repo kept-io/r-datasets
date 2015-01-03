@@ -1,0 +1,4 @@
+CREATE TABLE lactic (
+	`X` INTEGER NOT NULL, 
+	`Y` FLOAT NOT NULL
+);

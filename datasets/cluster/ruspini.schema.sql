@@ -1,0 +1,4 @@
+CREATE TABLE ruspini (
+	x INTEGER NOT NULL, 
+	y INTEGER NOT NULL
+);

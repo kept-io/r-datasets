@@ -1,0 +1,4 @@
+CREATE TABLE nhtemp (
+	time INTEGER NOT NULL, 
+	nhtemp FLOAT NOT NULL
+);

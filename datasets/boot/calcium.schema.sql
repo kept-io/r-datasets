@@ -1,0 +1,4 @@
+CREATE TABLE calcium (
+	time FLOAT NOT NULL, 
+	cal FLOAT NOT NULL
+);

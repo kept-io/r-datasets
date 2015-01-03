@@ -1,0 +1,4 @@
+CREATE TABLE cloth (
+	x FLOAT NOT NULL, 
+	y INTEGER NOT NULL
+);

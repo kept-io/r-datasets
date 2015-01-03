@@ -1,0 +1,4 @@
+CREATE TABLE `Bosco` (
+	x FLOAT NOT NULL, 
+	y INTEGER NOT NULL
+);

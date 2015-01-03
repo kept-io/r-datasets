@@ -1,0 +1,3 @@
+CREATE TABLE siemens (
+	x FLOAT NOT NULL
+);

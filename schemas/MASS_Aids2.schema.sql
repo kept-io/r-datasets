@@ -1,9 +1,0 @@
-CREATE TABLE `MASS_Aids2` (
-	state VARCHAR(5) NOT NULL, 
-	sex VARCHAR(1) NOT NULL, 
-	diag INTEGER NOT NULL, 
-	death INTEGER NOT NULL, 
-	status VARCHAR(1) NOT NULL, 
-	`T.categ` VARCHAR(6) NOT NULL, 
-	age INTEGER NOT NULL
-);

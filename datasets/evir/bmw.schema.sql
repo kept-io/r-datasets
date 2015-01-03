@@ -1,0 +1,3 @@
+CREATE TABLE bmw (
+	x FLOAT NOT NULL
+);

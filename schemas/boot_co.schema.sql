@@ -1,4 +1,0 @@
-CREATE TABLE boot_co (
-	entry INTEGER NOT NULL, 
-	week INTEGER NOT NULL
-);

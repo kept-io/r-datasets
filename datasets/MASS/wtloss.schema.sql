@@ -1,0 +1,4 @@
+CREATE TABLE wtloss (
+	`Days` INTEGER NOT NULL, 
+	`Weight` FLOAT NOT NULL
+);

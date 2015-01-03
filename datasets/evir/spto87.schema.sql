@@ -1,0 +1,3 @@
+CREATE TABLE spto87 (
+	x FLOAT NOT NULL
+);
