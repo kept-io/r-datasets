@@ -1,9 +1,12 @@
 #!/bin/bash
+wd=`pwd`
 
-DIR=`pwd`
+rm -f /tmp/import.log
 
-for object in `find csvs | grep .csv`
+for object in `find datasets | grep .csv`
 do
-	echo "Executing $object" >> /tmp/import.log
-	mysqlimport -uroot -p$DB_PASS --delete --fields-enclosed-by='"' --fields-terminated-by=',' --ignore-lines=1 rdatasets $DIR/$object >> /tmp/import.log
+        basename=`basename $object`
+        dirname=`dirname $object`
+        database=`basename $dirname`
+	mysqlimport -uroot -p$DB_PASS --local --delete --fields-enclosed-by='"' --fields-terminated-by=',' --ignore-lines=1 $database $wd/$object >> /tmp/import.log
 done

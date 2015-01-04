@@ -1,6 +1,9 @@
 #!/bin/bash
 
-for object in `find schemas | grep sql`
+for object in `find datasets | grep schema`
 do
-	mysql -uroot -p$DB_PASS rdatasets < $object
+	basename=`basename $object`
+	dirname=`dirname $object`
+	database=`basename $dirname`
+	mysql -uroot -p$DB_PASS $database < $object
 done
